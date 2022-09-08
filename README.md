@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Norbek Akmal 👋
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
 
-<!--
-**norbek2101/norbek2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a Back End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Skills & Experiance: 
+✅ Python <br> 
+✅ Django <br>
+✅ Django Rest Framework <br>
+✅ Django Channels <br>
+✅ SQL/MySQL <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbek2101&layout=compact)
+
+##  For Contact With Me
+✅  ► lightnight1223@gmail.com
