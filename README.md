@@ -1,60 +1,50 @@
-## Hi there, I'm Norbek! 👋
+## Hi, I'm Norbek Akmal 
 
-I'm a dedicated Web Developer with over 2 years of experience specializing in backend development with Python programming language. I'm passionate about crafting robust solutions and contributing to impactful projects. Here's a glimpse of my expertise and skills:
+**Passionate Backend Developer with 2+ years of experience in Python.** I enjoy crafting clean, efficient, and scalable web applications and APIs. I'm always eager to learn new technologies and share my knowledge with others.
 
-## 🚀 About Me
-I thrive on writing clean, efficient code and building scalable web applications that meet client needs effectively. I'm deeply committed to continuous learning and staying updated with the latest technologies in the web development domain. Problem-solving is at the core of my work ethos, and I enjoy collaborating with teams to overcome challenges and deliver exceptional results.
+** About Me**
 
-## 👨‍💻 Skills & Experience
-- Python
-- Django
-- Django Rest Framework
-- FAST API
-- SQL (MySQL, MariaDB, PostgreSQL)
-- Git
-- Linux OS & Server Administration
-- Nginx
-- HTML
-- CSS & Bootstrap
-- JavaScript (including jQuery, Node.js, Express.js)
-- MongoDB
-- Golang
-- Redis
-- Django Channels
-- Web Scraping (Selenium)
+I'm driven by creating robust and user-friendly backend solutions. I excel at problem-solving, approaching each project with a strategic and results-oriented mindset. My key strengths include:
 
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
-</p>
+* **Strong technical skills:** Python, Django, Django Rest Framework, Django Channels, FastAPI, SQL (MySQL, MariaDB, PostgreSQL), Git, Linux, Nginx, HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB, Golang, Redis, Web scraping (Selenium)
+* **Excellent communication and collaboration:** I believe in clear communication and open collaboration to achieve optimal results.
+* **Continuous learning:** I'm constantly expanding my knowledge base by actively learning new technologies and trends.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbek2101&layout=compact)
+**️ Skills & Experience**
 
-## Get in Touch
-✉️ Email: lightnight1223@gmail.com
+* **Backend Development:** 2+ years of experience building APIs and web applications.
+* **Languages:** Python, Golang, Node.js
+* **Frameworks & Libraries:** Django, Django Rest Framework, Django Channels, FastAPI, Express.js
+* **Databases:** SQL (MySQL, MariaDB, PostgreSQL), MongoDB
+* **DevOps:** Git, Linux, Nginx
+* **Front-end:** HTML, CSS, Bootstrap, JavaScript
+* **Web Scraping:** Selenium
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/norbek_kalandarov/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/light_12_21)
+** Achievements & Contributions**
+
+* (List any personal achievements, open-source contributions, or projects you're proud of)
+
+** Let's Connect!**
+
+I'm always open to connecting and discussing potential projects. Feel free to reach out via:
+
+* Email: lightnight1223@gmail.com
+* Instagram: https://www.instagram.com/norbek_kalandarov/
+* Telegram: https://t.me/light_12_21
+
+** GitHub Stats**
+
+(Consider adding a badge displaying your GitHub stats. You can use services like https://github-readme-stats.vercel.app/)
+
+---
+
+**Additional Tips:**
+
+* Personalize the introduction with a unique tagline or brief description of yourself.
+* Quantify your skills and experience whenever possible (e.g., "2+ years of backend development experience with Django").
+* Highlight any relevant achievements or contributions to showcase your expertise.
+* Add links to your personal website or portfolio (if applicable).
+* Keep the readme concise and visually appealing.
+* Regularly update your readme with your latest skills and projects.
+
+I hope this improved version helps you create a captivating and informative GitHub profile!
