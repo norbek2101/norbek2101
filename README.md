@@ -1,6 +1,6 @@
 ## Hi, I'm Norbek Akmal!
 
-![Profile picture of Norbek Akmal](https://avatars.githubusercontent.com/u/85705699?s=400&u=ad1d2661b0a1c58a0cdb580cfe8d484015bd8507&v=4)
+
 
 **Passionate Backend Developer with 2+ years of experience in Python.** I enjoy crafting clean, efficient, and scalable web applications and APIs. I'm always eager to learn new technologies and share my knowledge with others.
 
