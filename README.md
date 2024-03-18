@@ -1,45 +1,36 @@
-## Hi, I'm Norbek Akmal!
+# Hi, I'm Norbek Akmal! 🚀
 
+**Passionate Backend Developer with 2+ years of experience in Python.** Crafting clean, efficient, and scalable web applications and APIs is what I do best. Eager to learn new technologies and share knowledge with the community.
 
+## 🌟 About Me
 
-**Passionate Backend Developer with 2+ years of experience in Python.** I enjoy crafting clean, efficient, and scalable web applications and APIs. I'm always eager to learn new technologies and share my knowledge with others.
+Driven by the creation of robust and user-friendly backend solutions, I excel at problem-solving with a strategic and results-oriented mindset. My key strengths include:
 
-**About Me**
+- **Strong technical skills:**
+  - **Languages:** Python, Golang, Node.js
+  - **Frameworks & Libraries:** Django, Django Rest Framework ⚡, Django Channels, FastAPI ⚡️, Express.js
+  - **Databases:** SQL (MySQL, MariaDB, PostgreSQL), MongoDB 🪐
+  - **DevOps:** Git, Linux, Nginx
+  - **Front-end:** HTML, CSS, Bootstrap, JavaScript 🪄
+  - **Web Scraping:** Selenium
+- **Excellent communication and collaboration:** Fostering clear communication and open collaboration to achieve the best results.
+- **Continuous learning:** Actively expanding my knowledge base with new technologies and trends.
 
-I'm driven by creating robust and user-friendly backend solutions. I excel at problem-solving, approaching each project with a strategic and results-oriented mindset. My key strengths include:
+## 💼 Skills & Experience
 
-* **Strong technical skills:**
-    * **Languages:** Python , Golang , Node.js 
-    * **Frameworks & Libraries:** Django , Django Rest Framework ⚡, Django Channels , FastAPI ⚡️, Express.js 
-    * **Databases:** SQL (MySQL , MariaDB , PostgreSQL ), MongoDB 🪐
-    * **DevOps:** Git , Linux , Nginx 
-    * **Front-end:** HTML , CSS , Bootstrap , JavaScript 🪄
-    * **Web Scraping:** Selenium 
+- **Backend Development:** Over 2 years of experience in building APIs and web applications, providing clean, scalable solutions.
+- **Achievements & Contributions:**
+  - Successfully built an API handling 10,000 requests per second.
+  - Contributed to open-source project X, boosting performance by 20%.
 
-* **Excellent communication and collaboration:** I believe in clear communication and open collaboration to achieve optimal results.
-* **Continuous learning:** I'm constantly expanding my knowledge base by actively learning new technologies and trends.
+## 📫 Let's Connect!
 
-**Skills & Experience**
+Interested in collaborating or discussing potential projects? Feel free to reach out:
 
-* **Backend Development:** 2+ years of experience building APIs and web applications. (Showcase projects with links or images)
-* **Achievements & Contributions:**
-    * Successfully built an API that handles 10,000 requests per second. (Add more relevant achievements)
-    * Contributed to open-source project X, increasing performance by 20%. (Highlight impactful contributions)
-* **Languages:** Python, Golang, Node.js (Replace with icons)
-* **Frameworks & Libraries:** Django, Django Rest Framework, Django Channels, FastAPI, Express.js (Replace with icons)
-* **Databases:** SQL (MySQL, MariaDB, PostgreSQL), MongoDB (Replace with icons)
-* **DevOps:** Git, Linux, Nginx (Replace with icons)
-* **Front-end:** HTML, CSS, Bootstrap, JavaScript (Replace with icons)
-* **Web Scraping:** Selenium (Replace with icon)
+- **Email:** [kalandarovnorbek@gmail.com](mailto:kalandarovnorbek@gmail.com)
+- **Instagram:** [norbek_kalandarov](https://www.instagram.com/norbek_kalandarov/)
+- **Telegram:** [norbek_akmal](https://t.me/norbek_akmal)
 
-**Let's Connect!**
+### 📢 Call to Action
 
-I'm always open to connecting and discussing potential projects. Feel free to reach out via:
-
-* Email: kalandarovnorbek@gmail.com
-* Instagram: https://www.instagram.com/norbek_kalandarov/
-* Telegram: https://t.me/norbek_akmal
-
-**Call to action:**
-
-Do you need help building a scalable backend? Let's chat! 
+Need help building a scalable backend? Let's chat and make your project come to life!
