@@ -36,9 +36,9 @@ I'm driven by creating robust and user-friendly backend solutions. I excel at pr
 
 I'm always open to connecting and discussing potential projects. Feel free to reach out via:
 
-* Email: lightnight1223@gmail.com
+* Email: kalandarovnorbek@gmail.com
 * Instagram: https://www.instagram.com/norbek_kalandarov/
-* Telegram: https://t.me/light_12_21
+* Telegram: https://t.me/norbek_akmal
 
 **Call to action:**
 
