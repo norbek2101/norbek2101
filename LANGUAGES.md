@@ -1,5 +1,6 @@
 ### Languages Used Across Repositories
-- Python: 8 repos
+- Python: 12 repos
+- HTML: 4 repos
 - Go: 3 repos
-- HTML: 3 repos
-- JavaScript: 1 repos
+- JavaScript: 2 repos
+- CSS: 1 repos
