@@ -26,7 +26,7 @@ I'm passionate about backend development and driven by the impact of seamless us
 - **Stack:** Python, FastAPI, gRPC, WebSocket, Docker, Google Cloud Platform (GCP)
 
 ### 🔹 **MAMC Research** — *Backend Developer*  
-**2023 – 2025**
+**2024 – 2025**
 - Developed backend structure for **Speak Out+** mobile app and website for social surveys.
 - Contributed to backend development of **dzhehuti.com** platform.
 - Collaborated with team to construct project structure for various projects.
